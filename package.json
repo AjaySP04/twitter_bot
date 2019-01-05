@@ -1,0 +1,26 @@
+{
+  "name": "twitter_bot",
+  "version": "1.0.0",
+  "description": "Node Js Twitter bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error : no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AjaySP04/twitter_bot.git"
+  },
+  "keywords": [
+    "twitter",
+    "bot"
+  ],
+  "author": "Ajay Singh Parmar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AjaySP04/twitter_bot/issues"
+  },
+  "homepage": "https://github.com/AjaySP04/twitter_bot#readme",
+  "dependencies": {
+    "twitter": "^1.7.1"
+  }
+}
