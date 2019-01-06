@@ -9,13 +9,12 @@ var T = new Twitter(config)
 
 //search parameters
 params = {
-	q: '#node.js',
+	q: '#nodejs',
 	count: 10,
 	result_type: 'recent',
 	lang: 'en'
 }
 
-//make request using twiter api and get the seach result as response 
 T.get('search/tweets', params, function(err, data, response){
 
 	if(!err)
