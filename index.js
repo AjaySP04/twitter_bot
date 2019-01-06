@@ -9,7 +9,7 @@ var T = new Twitter(config)
 
 //search parameters
 params = {
-	q: '#nodejs',
+	q: '#HappyBirthdayARRahman',
 	count: 10,
 	result_type: 'recent',
 	lang: 'en'
